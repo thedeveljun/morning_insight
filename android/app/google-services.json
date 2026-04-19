@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1051669991982",
+    "project_id": "funminton-app",
+    "storage_bucket": "funminton-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051669991982:android:7f01f3bebde575e7c4c5bf",
+        "android_client_info": {
+          "package_name": "com.example.morning_insight"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCztzvxw0pFYGnX9tneAEcmkNMv6Wuth8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051669991982:android:7e8254f1a7602568c4c5bf",
+        "android_client_info": {
+          "package_name": "com.funminton.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCztzvxw0pFYGnX9tneAEcmkNMv6Wuth8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
